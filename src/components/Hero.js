@@ -146,7 +146,7 @@ export default function Hero() {
     { name: "Projects", href: "/projects"},
     { name: "My Life", href: "/myjourney"},
     { name: "Contact Me", href: "/contact" },
-    { name: "Resume", href: "https://docs.google.com/document/d/1ZfUhsxplxdmHv57DM_v3JqcFw80sG3ulhZGk7OYssJ0/edit?usp=sharing", download: true },
+    { name: "Resume", href: "https://drive.google.com/file/d/1c9KcVwLGuX1IvsG2lCQcFxS1_kO4r_Ey/view?usp=sharing", download: true },
   ];
 
   return (
