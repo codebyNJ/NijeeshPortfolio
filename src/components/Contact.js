@@ -60,7 +60,7 @@ export default function ContactPage() {
       id: "github",
       icon: FaGithub,
       label: "GitHub",
-      href: "https://github.com/yourusername",
+      href: "https://github.com/codebyNJ",
       color: "text-purple-400",
       shadowColor: "shadow-purple-600/50"
     },
@@ -68,39 +68,23 @@ export default function ContactPage() {
       id: "linkedin",
       icon: FaLinkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/yourusername",
+      href: "https://www.linkedin.com/in/nijeesh-nj-062468285/",
       color: "text-blue-400",
       shadowColor: "shadow-blue-600/50"
-    },
-    {
-      id: "twitter",
-      icon: FaTwitter,
-      label: "Twitter",
-      href: "https://twitter.com/yourusername",
-      color: "text-sky-400",
-      shadowColor: "shadow-sky-600/50"
     },
     {
       id: "email",
       icon: FaEnvelope,
       label: "Email",
-      href: "mailto:your.email@example.com",
+      href: "mailto:nijeesh10th@gmail.com",
       color: "text-red-400",
       shadowColor: "shadow-red-600/50"
-    },
-    {
-      id: "discord",
-      icon: FaDiscord,
-      label: "Discord",
-      href: "https://discord.gg/yourusername",
-      color: "text-indigo-400",
-      shadowColor: "shadow-indigo-600/50"
     },
     {
       id: "instagram",
       icon: FaInstagram,
       label: "Instagram",
-      href: "https://instagram.com/yourusername",
+      href: "https://instagram.com/_nijeeshnj",
       color: "text-pink-400",
       shadowColor: "shadow-pink-600/50"
     },
